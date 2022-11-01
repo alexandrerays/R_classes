@@ -1,3 +1,9 @@
+#-------------------------------------------------------------
+#Case: Previsão do tipo de flor (Setosa, Versicolor, Virginica)
+#Tipo de problema: Classificação
+#Dados: do próprio R
+#-------------------------------------------------------------
+
 #imprime primeiras linhas do dataset iris
 head(iris)
 

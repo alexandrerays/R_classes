@@ -1,5 +1,5 @@
 #-------------------------------------------------------------
-#Case: prevê se uma pessoa vai pagar um empréstimo ou não.
+#Case: Previsão do pagamento de um empréstimoou não.
 #Tipo de problema: Classificação
 #Dados: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 #-------------------------------------------------------------
